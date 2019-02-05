@@ -109,7 +109,7 @@ namespace Atividade1
         public static void MenuAgencia()
         {   
             WriteLine("\n");
-            WriteLine("===== BANCO LISO =====");
+            WriteLine("======= BANCO =======");
             WriteLine("----------------------");
             WriteLine("1 - CADASTRAR AGENCIA  ");
             WriteLine("----------------------");
